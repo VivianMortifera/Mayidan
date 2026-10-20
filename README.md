@@ -148,7 +148,7 @@
         </section>
         <h2 id="works">我的作品</h2>
         
-            <artical cllass="work">
+<artical cllass="work">
                 <div class ="box">
                     <div style="padding:18px;border:1px solid #dde6ef;border-radius:12px;margin:12px 0;background:#fbfcfe;">
                 <h3 style="color: rgb(80, 14, 124);">兴趣爱好</h3>
@@ -162,9 +162,9 @@
             </artical>
                                        
         
-        <artical class="work">
-            <h3 style="color: rgb(63, 5, 164);">学习方向</h3>
-            <ul>
+<artical class="work">
+      <h3 style="color: rgb(63, 5, 164);">学习方向</h3>
+       <ul>
 <li style="color: hotpink;">学习Web程序设计</li>
 <li style="color: hotpink;">学习人工智能</li>
 <li style="color: hotpink;">学习教育学和教育技术导论</li>
