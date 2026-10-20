@@ -28,7 +28,7 @@
        right: 0;
        z-index: 100;
        height: 64px;
-       display: flex;
+       display: fiex;
        align-items: center;
        justify-content: center;
        gap: 30px;
@@ -163,7 +163,7 @@
                                        
         
         <artical class="work">
-            <h3 style="color: rgb(56, 11, 133);">学习方向</h3>
+            <h3 style="color: rgb(63, 5, 164);">学习方向</h3>
             <ul>
 <li style="color: hotpink;">学习Web程序设计</li>
 <li style="color: hotpink;">学习人工智能</li>
